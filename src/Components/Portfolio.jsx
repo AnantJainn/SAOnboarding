@@ -31,27 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Chat Dapp",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "Its is the decentralised Chat application based on Blockchain and the smart Contracts are written in solidity.In this your can invite and chat with them publicaly.It uses Metamask for the transaction.Tech Stack used was Next.js, Solidity, Tailwind CSS, etc.",
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Decentralized Drive",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "This project is build using solidity and tested and deployed using hardhat. Its basically a decentralized version of Google Drive which has share access and display all pictures functionaliy. All the images are stored pinata IPFS file network.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "Dog Breed Identifier",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "This project aims to classify dog breeds using deep learning with TensorFlow and a convolutional neural network (CNN). We will use the Stanford Dogs Dataset which contains 20,580 images of 120 breeds of dogs.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Waste~Wizard",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "This app is help you to classify your waste with 9 different waste materials. The recycling process of these waste materials are very hard and even it's very difficult to classify these 9 different waste materials at recycling factory.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
